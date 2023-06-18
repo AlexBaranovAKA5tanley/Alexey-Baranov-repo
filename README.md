@@ -26,5 +26,5 @@ B. 004 Interactive Presentation (Operational analysis Flower Shop).zip - инт�
 
 B. 005 Chain Store Operational report- операционнный анализ тестового задания одного из сетевых магазинов
 
--- TG Peach_Blossom (Activity Index) (COLUMN ORIENTED FORMAT) V2 (JPG) - количественный, качесвенный, корреляционный анализ чата PeachBlossom (Telegram)
--- TG Peach_Blossom (Activity Index) (COLUMN ORIENTED FORMAT) V2 (JPG, LINUX)  - количественный, качесвенный, корреляционный анализ чата PeachBlossom (Telegram), выполнен на WSL Win11, изменен алгоритм подсчета: вместо concat в цикле использован pd.cut, pd.date_range, pd.pivot_table
+B. 00 TG Peach_Blossom (Activity Index) (COLUMN ORIENTED FORMAT) V2 (JPG) - количественный, качесвенный, корреляционный анализ чата PeachBlossom (Telegram)
+B. 00 TG Peach_Blossom (Activity Index) (COLUMN ORIENTED FORMAT) V2 (JPG, LINUX)  - количественный, качесвенный, корреляционный анализ чата PeachBlossom (Telegram), выполнен на WSL Win11, изменен алгоритм подсчета: вместо concat в цикле использован pd.cut, pd.date_range, pd.pivot_table
