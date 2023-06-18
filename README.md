@@ -16,13 +16,15 @@ B - pet-проекты.
 11. 012 Финальный Проект AB.ipynb		провести оценку результатов A/B-теста.		проведена корректности осуществления АВ теста. Сделаны выводы и предоставлены рекоммендации относительно результатов и возможности их принятия
 12. 012 ФиналПр Банки.ipynb	Сегментация пользователей по кол-ву потребляемых продуктов		
 	
-B. 01 Marks Probability (final).ipynb	Статистический анализ			проведено моделирование получения оценки и расчитана вероятность ее получения
+B. 001 Marks Probability (final).ipynb	Статистический анализ			проведено моделирование получения оценки и расчитана вероятность ее получения
 
-B. 02 Final FlSh	анализ операционных показателей		предобработка данных, получение конечных файлов для построения визуализации в Excel PowerPivot и Power BI на их основе	
+B. 002 3n_plus_1.ipynb - Сравнение производительности ПК для расчета пропорции первых цифр чисел алгоритма 3n+1
 
-B. 03 Operational analysis Flower Shop(quatitive, qualitative, cohorts).ipynb - количественный, качественный, когортный анализ операционной деятельности магазина по продаже цветов
+B. 003 Operational analysis Flower Shop(quatitive, qualitative, cohorts).ipynb - количественный, качественный, когортный анализ операционной деятельности магазина по продаже цветов
 
-B. 04 Interactive Presentation (Operational analysis Flower Shop).zip - интерактивная презентация операционного анализа показателей магазина по продаже цветов
+B. 004 Interactive Presentation (Operational analysis Flower Shop).zip - интерактивная презентация операционного анализа показателей магазина по продаже цветов
 
-B. 05 TG Peach_Blossom (Activity Index) (COLUMN ORIENTED FORMAT) V2 (JPG) - количественный, качесвенный, корреляционный анализ чата PeachBlossom (Telegram)
-B. 06 TG Peach_Blossom (Activity Index) (COLUMN ORIENTED FORMAT) V2 (JPG, LINUX)  - количественный, качесвенный, корреляционный анализ чата PeachBlossom (Telegram), выполнен на WSL Win11, изменен алгоритм подсчета: вместо concat в цикле использован pd.cut, pd.date_range, pd.pivot_table
+B. 005 Chain Store Operational report- операционнный анализ тестового задания одного из сетевых магазинов
+
+TG Peach_Blossom (Activity Index) (COLUMN ORIENTED FORMAT) V2 (JPG) - количественный, качесвенный, корреляционный анализ чата PeachBlossom (Telegram)
+TG Peach_Blossom (Activity Index) (COLUMN ORIENTED FORMAT) V2 (JPG, LINUX)  - количественный, качесвенный, корреляционный анализ чата PeachBlossom (Telegram), выполнен на WSL Win11, изменен алгоритм подсчета: вместо concat в цикле использован pd.cut, pd.date_range, pd.pivot_table
